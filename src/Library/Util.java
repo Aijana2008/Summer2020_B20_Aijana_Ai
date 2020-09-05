@@ -528,7 +528,14 @@ public class Util {
     }
     // combines two array and returns it
 
+    public static void sleep(int seconds) {
+        try {
+            Thread.sleep(seconds * 1000);
+        } catch (InterruptedException e){
+            System.out.println("World");
+        }
 
-
+    }
+// causes the current execution thread to sleep for given seconds
 
 }

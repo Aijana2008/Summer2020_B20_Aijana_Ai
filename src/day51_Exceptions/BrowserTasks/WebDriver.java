@@ -13,4 +13,5 @@ public class WebDriver  {
     public void close(){
         System.out.println("closing the default browser");
     }
+
 }
