@@ -9,6 +9,7 @@ public class Animal {
     public String breed;
     public double lb;
 
+
     public void setInfo(String name, String size, int age, char gender, String breed, double lb){
         this.name=name;
         this.size=size;
@@ -16,6 +17,7 @@ public class Animal {
         this.gender=gender;
         this.breed = breed;
         this.lb = lb;
+
     }
 
     public void eat(){

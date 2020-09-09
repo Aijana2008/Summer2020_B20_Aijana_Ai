@@ -18,7 +18,7 @@ public class AnimalObjects {
         System.out.println(dog1);
 
 
-        Cat cat1= new Cat("Altunhan","small",1, 'F', "Angora", 25);
+        Cat cat1= new Cat("Altunhan","small",1, 'F', "Angora", 25, "brown");
 
         System.out.println(cat1);
 
