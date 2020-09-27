@@ -1,4 +1,4 @@
-package day55_Abstraction.ShapeTask;
+package day55_Abstraction.ShapesTask;
 /*
  1. create an abstract class called Shape
             attributes:

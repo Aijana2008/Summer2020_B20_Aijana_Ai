@@ -1,4 +1,4 @@
-package day55_Abstraction.ShapeTask;
+package day55_Abstraction.ShapesTask;
 
 /*
 2. create a sbub class of shape called Circle (meant to be subclass ONLY)
